@@ -1,0 +1,12 @@
+{
+  "name": "neofetch",
+  "version": "1.0.0",
+  "description": "neofetch package on node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
