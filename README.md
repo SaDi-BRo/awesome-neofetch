@@ -1,2 +1,1 @@
-# awesome-neofetch
-📦 | The neofetch package on range languages
+# Awesome neofetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
