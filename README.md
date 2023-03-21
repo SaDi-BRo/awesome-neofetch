@@ -5,6 +5,7 @@ The [neofetch](https://github.com/dylanaraps/neofetch) package on different lang
 ## Contributors
 
 - node.js - [SaDi-BRo](https://github.com/SaDi-BRo)
+- deno - [Dostonlv](https://github.com/Dostonlv)
 
 ## Contributing
 
