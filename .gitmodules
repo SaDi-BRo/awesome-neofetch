@@ -1,3 +1,6 @@
 [submodule "src/xifetch-rs"]
 	path = src/xifetch-rs
 	url = https://github.com/user6879/xifetch-rs
+[submodule "src/xifetch"]
+	path = src/xifetch
+	url = https://github.com/reilinux/xifetch
