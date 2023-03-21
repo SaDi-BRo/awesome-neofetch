@@ -2,6 +2,10 @@
 
 The [neofetch](https://github.com/dylanaraps/neofetch) package on different languages
 
+## Contributors
+
+- node.js - [SaDi-BRo](https://github.com/SaDi-BRo)
+
 ## Contributing
 
 Contributions are always welcome!
