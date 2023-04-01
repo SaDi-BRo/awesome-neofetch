@@ -1,3 +1,3 @@
 ## xifetch - CLI-tool which shows your os info | for XinuxOS
 
-xifetch main repo: https://github.com/reilinux/xifetch
+xifetch main repo is [here](https://github.com/reilinux/xifetch)
