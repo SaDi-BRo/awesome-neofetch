@@ -7,6 +7,8 @@ The [neofetch](https://github.com/dylanaraps/neofetch) package on different lang
 - node.js - [SaDi-BRo](https://github.com/SaDi-BRo)
 - deno - [Dostonlv](https://github.com/Dostonlv)
 - C - [anixne](https://github.com/anixne), [Asadbek](https://github.com/nizomovasadbek)
+- python - [triistam](https://github.com/triistam)
+- rust - [triistam](https://github.com/triistam)
 
 ## Contributing
 
